@@ -20,8 +20,6 @@
 
 使用方法：访问 https://lib-pku.github.io/ ，点击资料链接即可下载。
 
-https://minhaskamal.github.io/DownGit/#/home
-
 ## Contribution
 
 **欢迎贡献！**
