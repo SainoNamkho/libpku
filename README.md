@@ -69,6 +69,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## Related Works
 
+- [知名大学开源课程收录计划](https://github.com/super9du/ggs-ddu/blob/master/README.md)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
 - [北京大学信科学生会学术部资料库](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
